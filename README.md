@@ -72,7 +72,11 @@ python flight_delay_analysis.py
 Developer
 
 Arun Karthick P
+
 B.Tech CSE
-SRM institute if science and technology, tiruchirapalli.
+
+SRM institute of science and technology, tiruchirapalli.
+
 Trichy, Tamil Nadu
+
 📧 Email: arunp061106@gmail.com
