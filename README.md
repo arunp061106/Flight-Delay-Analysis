@@ -69,7 +69,7 @@ cd flight-delay-analysis
 pip install numpy pandas scikit-learn
 python flight_delay_analysis.py
 
-Developer
+**Developer**
 
 Arun Karthick P
 
